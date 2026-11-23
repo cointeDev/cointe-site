@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Cor de fundo suave da página para destacar as barras arredondadas */
+body {
+  background-color: #f3f4f8;
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
